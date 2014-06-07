@@ -1,0 +1,9 @@
+// this is doge-script 
+// aaron says this should be a real versal gadget 
+
+var player = new VersalPlayerAPI();
+
+player.append('on', function() {
+
+        console.log('woof!');
+    }

@@ -1,0 +1,32 @@
+{
+  "name": "versal-player-api",
+  "main": "dist/api.js",
+  "homepage": "https://github.com/Versal/player-api",
+  "authors": [
+    "Versal Team <support@versal.com>"
+  ],
+  "description": "Versal player API",
+  "keywords": [
+    "Versal",
+    "player",
+    "api"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "index.js",
+    "api"
+  ],
+  "_release": "6485f4856b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "6485f4856b570fe2a5807d5d1969b2b51e33eb85"
+  },
+  "_source": "git://github.com/Versal/player-api.git",
+  "_target": "*",
+  "_originalSource": "versal-player-api",
+  "_direct": true
+}

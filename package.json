@@ -1,0 +1,11 @@
+{
+  "name": "doge-gadget",
+  "author": "ryan jones",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-dogescript": "^0.4.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}

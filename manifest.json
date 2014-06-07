@@ -1,0 +1,10 @@
+{
+  "name": "doge-gadget",
+  "version": "0.0.1",
+  "title": "My gadget",
+  "description": "Does nothing just yet",
+  "author": "anonymous",
+  "launcher": "iframe",
+  "defaultConfig": {},
+  "defaultUserState": {}
+}

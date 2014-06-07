@@ -1,0 +1,16 @@
+{
+  "name": "versal-player-api",
+  "version": "0.2.2",
+  "main": "dist/api.js",
+  "repository": "https://github.com/versal/player-api",
+  "scripts": {
+    "test": "mocha test/*.coffee --compilers coffee:coffee-script/register",
+    "build": "browserify -s VersalPlayerAPI index.js > dist/api.js"
+  },
+  "devDependencies": {
+    "browserify": "^3.41.0",
+    "coffee-script": "^1.7.1",
+    "sinon": "^1.9.1",
+    "uglify-js": "^2.4.13"
+  }
+}

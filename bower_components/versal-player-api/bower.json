@@ -1,0 +1,23 @@
+{
+  "name": "versal-player-api",
+  "main": "dist/api.js",
+  "version": "0.2.1",
+  "homepage": "https://github.com/Versal/player-api",
+  "authors": [
+    "Versal Team <support@versal.com>"
+  ],
+  "description": "Versal player API",
+  "keywords": [
+    "Versal",
+    "player",
+    "api"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "index.js",
+    "api"
+  ]
+}
